@@ -1,0 +1,1 @@
+sudo apt update && sudo apt install android-sdk openjdk-21-jdk -y
