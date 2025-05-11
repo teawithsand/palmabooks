@@ -2,6 +2,10 @@
 
 PalmaBooks Native is a React Native mobile application built with Expo and TypeScript. It uses Expo Router for navigation and NativeWind for styling with Tailwind CSS.
 
+## WIP 
+
+This app is not ready to use yet and is WIP project.
+
 ## Features
 - React Native 0.79 with React 19
 - Expo SDK ~53.0.0-preview.7
@@ -11,12 +15,6 @@ PalmaBooks Native is a React Native mobile application built with Expo and TypeS
 - ESLint and Prettier configured
 - Jest for testing
 
-## Getting Started
-
-### Prerequisites
-- Node.js (recommended version 18+)
-- npm or yarn
-- Expo CLI (`npm install -g expo-cli`)
 
 ## Contributing
 
